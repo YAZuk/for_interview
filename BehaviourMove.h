@@ -9,6 +9,11 @@
 
 class BehaviourMove {
 
+public:
+    BehaviourMove();
+    virtual ~BehaviourMove();
+private:
+
 };
 
 

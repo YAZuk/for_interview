@@ -6,11 +6,15 @@
 #define BEHAVIOURFLY_H
 
 
-
 class BehaviourFly {
+public:
+    BehaviourFly();
 
+    virtual ~BehaviourFly();
+
+private:
+    float speed = 0.0;
 };
-
 
 
 #endif //BEHAVIOURFLY_H
