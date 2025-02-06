@@ -7,12 +7,13 @@
 
 
 enum TypeUnit {
-    MAN = 1,
-    WOMAN = 2,
-    HORSE = 3,
-    ARCHER = 4,
-    TANK = 5,
-    DRON = 6
+    UNIT = 1,
+    MAN = 2,
+    WOMAN = 3,
+    HORSE = 4,
+    ARCHER = 5,
+    TANK = 6,
+    DRON = 7
 };
 
 
